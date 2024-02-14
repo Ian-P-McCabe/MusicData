@@ -1,3 +1,5 @@
+import json
+
 def clean_nones(value):
     """
     Recursively remove all None values from dictionaries and lists, and returns
@@ -14,3 +16,13 @@ def clean_nones(value):
         }
     else:
         return value
+
+
+# Counts how many performances there are in the sample data
+count = 0
+for i in range(1,5):
+    fname = "BSO_Data/sample_data/bso_out_" + str(i) + ".json"
+    f = open(fname)
+    bsoj = json.load(f)
+    resultcount = len(bsoj["Results"])
+    count += resultcount
