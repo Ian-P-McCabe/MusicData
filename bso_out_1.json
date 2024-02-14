@@ -1,0 +1,4114 @@
+{
+  "DebugInfo": "<span style='font-size: 12px;'>Async call of GetEventDetails. Server-side code. Time to execute: <strong style='font-weight: 900;'>958 ms</strong>. Number of results: 10</span>",
+  "Results": [
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 465543,
+          "workGroupID": 35434,
+          "WorkTitle": "Nice Work If You Can Get It: Overture",
+          "ComposerFullName": "George Gershwin",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465544,
+          "workGroupID": 44861,
+          "WorkTitle": "I Love a Piano",
+          "ComposerFullName": "Irving Berlin",
+          "Arranger": "Tedd Firth",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465545,
+          "workGroupID": 44860,
+          "WorkTitle": "Rodgers Waltz Medley",
+          "ComposerFullName": "Richard Rodgers",
+          "Arranger": "Tedd Firth",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465546,
+          "workGroupID": 44862,
+          "WorkTitle": "Pure Imagination",
+          "ComposerFullName": "Leslie Bricusse",
+          "Arranger": "Tedd Firth",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465596,
+          "workGroupID": 15519,
+          "WorkTitle": "Concerto for Piano in F major: (3) Allegro Agitato",
+          "ComposerFullName": "George Gershwin",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465548,
+          "workGroupID": 44863,
+          "WorkTitle": "Tea for Two",
+          "ComposerFullName": "Vincent Youmans",
+          "Arranger": "Tedd Firth",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465550,
+          "workGroupID": 44735,
+          "WorkTitle": "Porgy and Bess (film): Overture",
+          "ComposerFullName": "George Gershwin",
+          "Arranger": "Andre Previn",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465551,
+          "workGroupID": 44864,
+          "WorkTitle": "Lucky to Be Me / I'll Be Around",
+          "ComposerFullName": "Leonard Bernstein",
+          "Arranger": "Tedd Firth",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465552,
+          "workGroupID": 44855,
+          "WorkTitle": "Gershwin Fantasy",
+          "ComposerFullName": "George Gershwin",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        }
+      ],
+      "events": [],
+      "series": [],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103817,
+      "EventProgramNo": 0,
+      "EventDate": "2023-06-01T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "06-01-2023",
+      "EventStartTime": "20:05",
+      "EventEndTime": "22:05",
+      "DetailLink": "Detail.aspx?UniqueKey=103817",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 459861,
+          "workGroupID": 44481,
+          "WorkTitle": "On Christmas Night",
+          "ComposerFullName": "James Burton",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77276,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459862,
+          "workGroupID": 10229,
+          "WorkTitle": "Christmas Canticles",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Sean O'Loughlin",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77277,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460644,
+          "workGroupID": 44561,
+          "WorkTitle": "Maoz Tsur",
+          "ComposerFullName": "Traditional",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77291,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459860,
+          "workGroupID": 13382,
+          "WorkTitle": "Drey Dreydeleh",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Patrick Hollenbeck, Joshua Jacobson",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77275,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459863,
+          "workGroupID": 5557,
+          "WorkTitle": "Fantasia On Greensleeves",
+          "ComposerFullName": "Ralph Vaughan Williams",
+          "Arranger": "Ralph Greaves",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77278,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459864,
+          "workGroupID": 4835,
+          "WorkTitle": "Snow Maiden: Dance of the Tumblers",
+          "ComposerFullName": "Nikolai Rimsky-Korsakov",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77279,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459879,
+          "workGroupID": 44519,
+          "WorkTitle": "Dobrij vechir tobi",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Bill Elliott",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77290,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459865,
+          "workGroupID": 10225,
+          "WorkTitle": "Carol of the Bells",
+          "ComposerFullName": "Mykola Dmytrovich Leontovych",
+          "Arranger": "Alexander Courage",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77280,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459866,
+          "workGroupID": 44450,
+          "WorkTitle": "Noche de Posadas",
+          "ComposerFullName": "Arturo Rodr\u00edguez",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "Boston Pops 2022",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77281,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459867,
+          "workGroupID": 11662,
+          "WorkTitle": "Twelve Days of Christmas",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Don Sebesky, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77282,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459868,
+          "workGroupID": 32262,
+          "WorkTitle": "God Rest Ye Merry Kings",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Rob Mathes",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77283,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459873,
+          "workGroupID": 7549,
+          "WorkTitle": "Twas the Night Before Christmas",
+          "ComposerFullName": "Ken Darby",
+          "Arranger": "Harry Simeone",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77285,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459871,
+          "workGroupID": 8266,
+          "WorkTitle": "Sleigh Ride",
+          "ComposerFullName": "Leroy Anderson",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77284,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459874,
+          "workGroupID": 7806,
+          "WorkTitle": "Frosty All the Way! (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Don Sebesky",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77286,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459875,
+          "workGroupID": 42090,
+          "WorkTitle": "Santa Claus is Coming to Town",
+          "ComposerFullName": "J. Fred Coots",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77287,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459877,
+          "workGroupID": 44510,
+          "WorkTitle": "Merry Little Sing-Along, A (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77289,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459876,
+          "workGroupID": 8339,
+          "WorkTitle": "White Christmas",
+          "ComposerFullName": "Irving Berlin",
+          "Arranger": "Alexander Courage, Jack Mason",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77288,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103952-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdm62E6oe26SR"
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "series": [
+        {
+          "SeriesName": "Holiday Pops Concerts",
+          "SeriesId": 450
+        }
+      ],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "James Burton"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103952,
+      "EventProgramNo": 0,
+      "EventDate": "2022-12-10T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "12-10-2022",
+      "EventStartTime": "19:35",
+      "EventEndTime": "21:35",
+      "DetailLink": "Detail.aspx?UniqueKey=103952",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 459460,
+          "workGroupID": 10229,
+          "WorkTitle": "Christmas Canticles",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Sean O'Loughlin",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77059,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459499,
+          "workGroupID": 42091,
+          "WorkTitle": "Sleigh Ride",
+          "ComposerFullName": "Leroy Anderson",
+          "Arranger": "Lawrence Goldberg, James Burton",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77064,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459500,
+          "workGroupID": 8359,
+          "WorkTitle": "Gesu Bambino",
+          "ComposerFullName": "Pietro Yon",
+          "Arranger": "Angela Morley",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77065,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460638,
+          "workGroupID": 44561,
+          "WorkTitle": "Maoz Tsur",
+          "ComposerFullName": "Traditional",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77070,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459501,
+          "workGroupID": 7547,
+          "WorkTitle": "Chauve souris: Parade of the Wooden Soldiers",
+          "ComposerFullName": "Leon Jessel",
+          "Arranger": "Morton Gould",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77066,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459553,
+          "workGroupID": 44519,
+          "WorkTitle": "Dobrij vechir tobi",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Bill Elliott",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77069,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459463,
+          "workGroupID": 10225,
+          "WorkTitle": "Carol of the Bells",
+          "ComposerFullName": "Mykola Dmytrovich Leontovych",
+          "Arranger": "Alexander Courage",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77060,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459464,
+          "workGroupID": 44450,
+          "WorkTitle": "Noche de Posadas",
+          "ComposerFullName": "Arturo Rodr\u00edguez",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "Boston Pops 2022",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77061,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459502,
+          "workGroupID": 8549,
+          "WorkTitle": "Christmas Is a-Comin'",
+          "ComposerFullName": "Frank Luther",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77067,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459471,
+          "workGroupID": 7549,
+          "WorkTitle": "Twas the Night Before Christmas",
+          "ComposerFullName": "Ken Darby",
+          "Arranger": "Harry Simeone",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77062,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459473,
+          "workGroupID": 42090,
+          "WorkTitle": "Santa Claus is Coming to Town",
+          "ComposerFullName": "J. Fred Coots",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77063,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459503,
+          "workGroupID": 7696,
+          "WorkTitle": "Christmas Is for Children (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Danny Troob",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77068,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/102856-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdkrAWlXM5Qri"
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "series": [
+        {
+          "SeriesName": "Boston Pops Concerts",
+          "SeriesId": 154
+        },
+        {
+          "SeriesName": "Holiday Pops Concerts",
+          "SeriesId": 450
+        },
+        {
+          "SeriesName": "Pops Sensory Friendly Concert",
+          "SeriesId": 617
+        }
+      ],
+      "eventProgramTitles": [
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        },
+        {
+          "EventTitle": "Sensory Friendly Concert"
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "Sensory Friendly Concert",
+      "EventID": 102856,
+      "EventProgramNo": 0,
+      "EventDate": "2022-12-03T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "12-03-2022",
+      "EventStartTime": "10:35",
+      "EventEndTime": "12:35",
+      "DetailLink": "Detail.aspx?UniqueKey=102856",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 459580,
+          "workGroupID": 44481,
+          "WorkTitle": "On Christmas Night",
+          "ComposerFullName": "James Burton",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77297,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459581,
+          "workGroupID": 10229,
+          "WorkTitle": "Christmas Canticles",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Sean O'Loughlin",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77298,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460668,
+          "workGroupID": 44561,
+          "WorkTitle": "Maoz Tsur",
+          "ComposerFullName": "Traditional",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77311,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459594,
+          "workGroupID": 13382,
+          "WorkTitle": "Drey Dreydeleh",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Patrick Hollenbeck, Joshua Jacobson",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77310,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459582,
+          "workGroupID": 5557,
+          "WorkTitle": "Fantasia On Greensleeves",
+          "ComposerFullName": "Ralph Vaughan Williams",
+          "Arranger": "Ralph Greaves",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77299,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459583,
+          "workGroupID": 4835,
+          "WorkTitle": "Snow Maiden: Dance of the Tumblers",
+          "ComposerFullName": "Nikolai Rimsky-Korsakov",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77300,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459591,
+          "workGroupID": 44519,
+          "WorkTitle": "Dobrij vechir tobi",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Bill Elliott",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77308,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459584,
+          "workGroupID": 10225,
+          "WorkTitle": "Carol of the Bells",
+          "ComposerFullName": "Mykola Dmytrovich Leontovych",
+          "Arranger": "Alexander Courage",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77301,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459585,
+          "workGroupID": 44450,
+          "WorkTitle": "Noche de Posadas",
+          "ComposerFullName": "Arturo Rodr\u00edguez",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "Boston Pops 2022",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77302,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459578,
+          "workGroupID": 11662,
+          "WorkTitle": "Twelve Days of Christmas",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Don Sebesky, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77295,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459586,
+          "workGroupID": 32262,
+          "WorkTitle": "God Rest Ye Merry Kings",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Rob Mathes",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77303,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459592,
+          "workGroupID": 44518,
+          "WorkTitle": "This Is My Wish / Let There Be Peace On Earth",
+          "ComposerFullName": "Jill Jackson-Miller",
+          "Arranger": "Jamey Ray",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77309,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459587,
+          "workGroupID": 42091,
+          "WorkTitle": "Sleigh Ride",
+          "ComposerFullName": "Leroy Anderson",
+          "Arranger": "Lawrence Goldberg, James Burton",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77304,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459577,
+          "workGroupID": 8402,
+          "WorkTitle": "Visit From St. Nicholas, A ('Twas the Night Before Christmas), for narrator and orchestra",
+          "ComposerFullName": "Joseph Reisman",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77294,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459588,
+          "workGroupID": 42090,
+          "WorkTitle": "Santa Claus is Coming to Town",
+          "ComposerFullName": "J. Fred Coots",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77305,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459589,
+          "workGroupID": 44510,
+          "WorkTitle": "Merry Little Sing-Along, A (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77306,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459579,
+          "workGroupID": 7806,
+          "WorkTitle": "Frosty All the Way! (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Don Sebesky",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77296,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459590,
+          "workGroupID": 7522,
+          "WorkTitle": "White Christmas",
+          "ComposerFullName": "Irving Berlin",
+          "Arranger": "Alexander Courage, Jack Mason",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77307,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103986-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdvkLpyc%2fiBPR"
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "series": [
+        {
+          "SeriesName": "Holiday Pops Concerts",
+          "SeriesId": 450
+        }
+      ],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Manchester, NH, U.S.A.",
+        "VenueCity": "Manchester",
+        "VenueState": "NH",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "SNHU Arena"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Esplanade Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103986,
+      "EventProgramNo": 0,
+      "EventDate": "2022-12-10T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "12-10-2022",
+      "EventStartTime": "19:40",
+      "EventEndTime": "21:40",
+      "DetailLink": "Detail.aspx?UniqueKey=103986",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 462497,
+          "workGroupID": 44716,
+          "WorkTitle": "Disney Princess - The Concert",
+          "ComposerFullName": "[various]",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        }
+      ],
+      "events": [],
+      "series": [],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 104420,
+      "EventProgramNo": 0,
+      "EventDate": "2023-05-27T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "05-27-2023",
+      "EventStartTime": "14:05",
+      "EventEndTime": "16:05",
+      "DetailLink": "Detail.aspx?UniqueKey=104420",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 462494,
+          "workGroupID": 44716,
+          "WorkTitle": "Disney Princess - The Concert",
+          "ComposerFullName": "[various]",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        }
+      ],
+      "events": [],
+      "series": [],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 104417,
+      "EventProgramNo": 0,
+      "EventDate": "2023-05-20T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "05-20-2023",
+      "EventStartTime": "14:05",
+      "EventEndTime": "16:05",
+      "DetailLink": "Detail.aspx?UniqueKey=104417",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 463851,
+          "workGroupID": 18046,
+          "WorkTitle": "Spumante",
+          "ComposerFullName": "Dan Welcher",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463863,
+          "workGroupID": 15727,
+          "WorkTitle": "Concerto for Clarinet in A major, K. 622: (2) Adagio, (3) Rondo: Allegro",
+          "ComposerFullName": "Wolfgang Amadeus Mozart",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463864,
+          "workGroupID": 3485,
+          "WorkTitle": "Totentanz [Dance of Death] (piano and orchestra)",
+          "ComposerFullName": "Franz Liszt",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 464946,
+          "workGroupID": 44781,
+          "WorkTitle": "Back to the Future: Suite",
+          "ComposerFullName": "Alan Silvestri",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463855,
+          "workGroupID": 8847,
+          "WorkTitle": "Titanic: My Heart Will Go On",
+          "ComposerFullName": "James Horner",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463856,
+          "workGroupID": 15286,
+          "WorkTitle": "Scent of a Woman: Tango \"Por una cabeza\"",
+          "ComposerFullName": "Carlos Gardel",
+          "Arranger": "John Williams",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463857,
+          "workGroupID": 17074,
+          "WorkTitle": "Phantom of the Opera: Overture & Music of the Night",
+          "ComposerFullName": "Andrew Lloyd Webber",
+          "Arranger": "Angela Morley, Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463858,
+          "workGroupID": 44741,
+          "WorkTitle": "Star Wars Episode VI: Return of the Jedi: Forest Battle",
+          "ComposerFullName": "John Williams",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463859,
+          "workGroupID": 8944,
+          "WorkTitle": "Joint Is Jumpin', The",
+          "ComposerFullName": "Thomas \"Fats\" Waller",
+          "Arranger": "Douglas Besterman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463860,
+          "workGroupID": 10747,
+          "WorkTitle": "Exorcist, The: Tubular Bells",
+          "ComposerFullName": "Mike Oldfield",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463861,
+          "workGroupID": 7799,
+          "WorkTitle": "42nd Street",
+          "ComposerFullName": "Harry Warren",
+          "Arranger": "Don Sebesky",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463865,
+          "workGroupID": 7840,
+          "WorkTitle": "Go B.U.",
+          "ComposerFullName": "Ranny Weeks",
+          "Arranger": " Norcott",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 463862,
+          "workGroupID": 7627,
+          "WorkTitle": "Stars and Stripes Forever, The",
+          "ComposerFullName": "John Philip Sousa",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        }
+      ],
+      "events": [],
+      "series": [],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103810,
+      "EventProgramNo": 0,
+      "EventDate": "2023-05-20T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "05-20-2023",
+      "EventStartTime": "20:05",
+      "EventEndTime": "22:05",
+      "DetailLink": "Detail.aspx?UniqueKey=103810",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 459600,
+          "workGroupID": 44481,
+          "WorkTitle": "On Christmas Night",
+          "ComposerFullName": "James Burton",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77495,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459601,
+          "workGroupID": 10229,
+          "WorkTitle": "Christmas Canticles",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Sean O'Loughlin",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77496,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460669,
+          "workGroupID": 44561,
+          "WorkTitle": "Maoz Tsur",
+          "ComposerFullName": "Traditional",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77509,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459614,
+          "workGroupID": 13382,
+          "WorkTitle": "Drey Dreydeleh",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Patrick Hollenbeck, Joshua Jacobson",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77508,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459602,
+          "workGroupID": 5557,
+          "WorkTitle": "Fantasia On Greensleeves",
+          "ComposerFullName": "Ralph Vaughan Williams",
+          "Arranger": "Ralph Greaves",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77497,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459603,
+          "workGroupID": 4835,
+          "WorkTitle": "Snow Maiden: Dance of the Tumblers",
+          "ComposerFullName": "Nikolai Rimsky-Korsakov",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77498,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459611,
+          "workGroupID": 44519,
+          "WorkTitle": "Dobrij vechir tobi",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Bill Elliott",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77506,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459604,
+          "workGroupID": 10225,
+          "WorkTitle": "Carol of the Bells",
+          "ComposerFullName": "Mykola Dmytrovich Leontovych",
+          "Arranger": "Alexander Courage",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77499,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459605,
+          "workGroupID": 44450,
+          "WorkTitle": "Noche de Posadas",
+          "ComposerFullName": "Arturo Rodr\u00edguez",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "Boston Pops 2022",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77500,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459598,
+          "workGroupID": 11662,
+          "WorkTitle": "Twelve Days of Christmas",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Don Sebesky, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77493,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459606,
+          "workGroupID": 32262,
+          "WorkTitle": "God Rest Ye Merry Kings",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Rob Mathes",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77501,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459612,
+          "workGroupID": 44518,
+          "WorkTitle": "This Is My Wish / Let There Be Peace On Earth",
+          "ComposerFullName": "Jill Jackson-Miller",
+          "Arranger": "Jamey Ray",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77507,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459607,
+          "workGroupID": 42091,
+          "WorkTitle": "Sleigh Ride",
+          "ComposerFullName": "Leroy Anderson",
+          "Arranger": "Lawrence Goldberg, James Burton",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77502,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459597,
+          "workGroupID": 8402,
+          "WorkTitle": "Visit From St. Nicholas, A ('Twas the Night Before Christmas), for narrator and orchestra",
+          "ComposerFullName": "Joseph Reisman",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77492,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459608,
+          "workGroupID": 42090,
+          "WorkTitle": "Santa Claus is Coming to Town",
+          "ComposerFullName": "J. Fred Coots",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77503,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459609,
+          "workGroupID": 44510,
+          "WorkTitle": "Merry Little Sing-Along, A (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77504,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459599,
+          "workGroupID": 7806,
+          "WorkTitle": "Frosty All the Way! (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Don Sebesky",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77494,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459610,
+          "workGroupID": 7522,
+          "WorkTitle": "White Christmas",
+          "ComposerFullName": "Irving Berlin",
+          "Arranger": "Alexander Courage, Jack Mason",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77505,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103987-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdgtbrWOf4JQJ"
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "series": [
+        {
+          "SeriesName": "Holiday Pops Concerts",
+          "SeriesId": 450
+        }
+      ],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Lowell, MA, U.S.A.",
+        "VenueCity": "Lowell",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Memorial Auditorium"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Esplanade Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103987,
+      "EventProgramNo": 0,
+      "EventDate": "2022-12-18T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "12-18-2022",
+      "EventStartTime": "14:40",
+      "EventEndTime": "16:40",
+      "DetailLink": "Detail.aspx?UniqueKey=103987",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 459646,
+          "workGroupID": 10229,
+          "WorkTitle": "Christmas Canticles",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Sean O'Loughlin",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77477,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459651,
+          "workGroupID": 42091,
+          "WorkTitle": "Sleigh Ride",
+          "ComposerFullName": "Leroy Anderson",
+          "Arranger": "Lawrence Goldberg, James Burton",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77481,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459653,
+          "workGroupID": 7547,
+          "WorkTitle": "Chauve souris: Parade of the Wooden Soldiers",
+          "ComposerFullName": "Leon Jessel",
+          "Arranger": "Morton Gould",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77483,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460662,
+          "workGroupID": 4835,
+          "WorkTitle": "Snow Maiden: Dance of the Tumblers",
+          "ComposerFullName": "Nikolai Rimsky-Korsakov",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77489,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459648,
+          "workGroupID": 44450,
+          "WorkTitle": "Noche de Posadas",
+          "ComposerFullName": "Arturo Rodr\u00edguez",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "Boston Pops 2022",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77478,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459657,
+          "workGroupID": 13382,
+          "WorkTitle": "Drey Dreydeleh",
+          "ComposerFullName": "Traditional",
+          "Arranger": "Patrick Hollenbeck, Joshua Jacobson",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77486,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459652,
+          "workGroupID": 8359,
+          "WorkTitle": "Gesu Bambino",
+          "ComposerFullName": "Pietro Yon",
+          "Arranger": "Angela Morley",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77482,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 460649,
+          "workGroupID": 44561,
+          "WorkTitle": "Maoz Tsur",
+          "ComposerFullName": "Traditional",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77488,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459659,
+          "workGroupID": 7806,
+          "WorkTitle": "Frosty All the Way! (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Don Sebesky",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77487,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459654,
+          "workGroupID": 8549,
+          "WorkTitle": "Christmas Is a-Comin'",
+          "ComposerFullName": "Frank Luther",
+          "Arranger": "Joseph Reisman",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77484,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459649,
+          "workGroupID": 7549,
+          "WorkTitle": "Twas the Night Before Christmas",
+          "ComposerFullName": "Ken Darby",
+          "Arranger": "Harry Simeone",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77479,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459650,
+          "workGroupID": 42090,
+          "WorkTitle": "Santa Claus is Coming to Town",
+          "ComposerFullName": "J. Fred Coots",
+          "Arranger": "Bill Elliott, David Chase",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77480,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        },
+        {
+          "series": [],
+          "workID": 459655,
+          "workGroupID": 7696,
+          "WorkTitle": "Christmas Is for Children (medley)",
+          "ComposerFullName": "[various]",
+          "Arranger": "Danny Troob",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": [
+            {
+              "WorkDocumentID": 77485,
+              "WorkDocumentName": "Audio:MP3",
+              "WorkDocumentSummary": null,
+              "WorkDocumentNotes": null,
+              "WorkDocumentFileLocation": "https://bso.netx.net/app/#search/exact/103957-A",
+              "WorkDocumentFileLocationToken": "ZPsUzufwBL9NuSkP%2fri%2bBWCRPZwj3ezjfSvjKTCXs1Eg5apHwAVUdq8zX4D6v2K9"
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "series": [
+        {
+          "SeriesName": "Holiday Pops Concerts",
+          "SeriesId": 450
+        }
+      ],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103957,
+      "EventProgramNo": 0,
+      "EventDate": "2022-12-18T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "12-18-2022",
+      "EventStartTime": "11:05",
+      "EventEndTime": "13:05",
+      "DetailLink": "Detail.aspx?UniqueKey=103957",
+      "ProgramBookLink": ""
+    },
+    {
+      "artists": [],
+      "works": [
+        {
+          "series": [],
+          "workID": 465597,
+          "workGroupID": 5271,
+          "WorkTitle": "Polonaise brillante No.   1 in D major, Op. 4",
+          "ComposerFullName": "Henri Wieniawski",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465599,
+          "workGroupID": 44866,
+          "WorkTitle": "Song for You, A",
+          "ComposerFullName": "Leon Russell",
+          "Arranger": "Rob Mathes",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465598,
+          "workGroupID": 44865,
+          "WorkTitle": "Concerto for Cello No.  1, Op. 107: (1) Allegretto",
+          "ComposerFullName": "Dmitri Shostakovich",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465663,
+          "workGroupID": 44867,
+          "WorkTitle": "Parade: This is Not Over Yet",
+          "ComposerFullName": "Jason Robert Brown",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 465601,
+          "workGroupID": 4367,
+          "WorkTitle": "Rhapsody on a Theme of Paganini, Op. 43",
+          "ComposerFullName": "Sergei Rachmaninoff",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467554,
+          "workGroupID": 34962,
+          "WorkTitle": "I Spy",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467555,
+          "workGroupID": 44985,
+          "WorkTitle": "Long Night",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Matt LaRocca",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467556,
+          "workGroupID": 44986,
+          "WorkTitle": "Hello, Mr. Sun",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Matt LaRocca",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467557,
+          "workGroupID": 44987,
+          "WorkTitle": "Rocketship",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Matt LaRocca",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467558,
+          "workGroupID": 44988,
+          "WorkTitle": "This Is How It Feels To Have A Broken Heart",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467559,
+          "workGroupID": 44989,
+          "WorkTitle": "That's No Way To Get To Heaven",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467560,
+          "workGroupID": 44990,
+          "WorkTitle": "Black Balloon",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467561,
+          "workGroupID": 44991,
+          "WorkTitle": "Witness Tree",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Matt LaRocca",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467562,
+          "workGroupID": 34968,
+          "WorkTitle": "Two Points for Honesty",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467563,
+          "workGroupID": 44992,
+          "WorkTitle": "Do You Love Me?",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467564,
+          "workGroupID": 34966,
+          "WorkTitle": "Empire State",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467565,
+          "workGroupID": 44993,
+          "WorkTitle": "Either Way",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467566,
+          "workGroupID": 44994,
+          "WorkTitle": "Two At A Time",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467567,
+          "workGroupID": 44995,
+          "WorkTitle": "Satellite",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Jay Clifford",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467568,
+          "workGroupID": 34969,
+          "WorkTitle": "Come Downstairs and Say Hello",
+          "ComposerFullName": "Guster (band)",
+          "Arranger": "Patrick Hollenbeck",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 0,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        },
+        {
+          "series": [],
+          "workID": 467569,
+          "workGroupID": 34970,
+          "WorkTitle": "Jesus on the Radio",
+          "ComposerFullName": "Ryan Miller",
+          "Arranger": "",
+          "PerformanceCount": 0,
+          "ConductorCount": 0,
+          "SoloistCount": 0,
+          "ParticipantCount": 0,
+          "EnsembleCount": 0,
+          "WorkLink": null,
+          "Series": null,
+          "WorkNote": null,
+          "WorkPremiere": null,
+          "Commission": "",
+          "Encores": 1,
+          "WorkArtists": [],
+          "WorkDocuments": []
+        }
+      ],
+      "events": [],
+      "series": [],
+      "eventProgramTitles": [
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        },
+        {
+          "EventTitle": ""
+        }
+      ],
+      "conductor": {
+        "ConductorFullName": "Keith Lockhart"
+      },
+      "venue": {
+        "VenueLocation": "Boston, MA, U.S.A.",
+        "VenueCity": "Boston",
+        "VenueState": "MA",
+        "VenueCountry": "U.S.A.",
+        "VenueName": "Symphony Hall"
+      },
+      "orchestra": {
+        "OrchestraName": "Boston Pops Orchestra"
+      },
+      "season": {
+        "SeasonName": "2022-2023 Season"
+      },
+      "EventProgramTitle": "",
+      "EventID": 103820,
+      "EventProgramNo": 0,
+      "EventDate": "2023-06-06T00:00:00",
+      "SeasonTitle": "2022-2023 Season",
+      "EventDateString": "06-06-2023",
+      "EventStartTime": "20:08",
+      "EventEndTime": "22:08",
+      "DetailLink": "Detail.aspx?UniqueKey=103820",
+      "ProgramBookLink": ""
+    }
+  ]
+}
