@@ -7,12 +7,13 @@ import json
 
 if __name__ == "__main__":
     print("Hello world")
-    search_string = "https://archives.bso.org/Search.aspx?SearchType=Performance&startTime=08%2F01%2F2022&endTime=08%2F01%2F2023"
+
+def fetch_BSO_JSON(url):
     driver = webdriver.Chrome()
 
-    driver.get(search_string)
+    driver.get(url)
 
-    delay = 12
+    delay = 10
 
     WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CLASS_NAME, "resultCount")))
 
@@ -20,7 +21,6 @@ if __name__ == "__main__":
     for request in driver.requests:
         if request.response:
             if request.url == "https://archives.bso.org/ArchiveWebService.asmx/GetEventDetails":
-
                 raw_json = request.response.body
 
                 clean_json = json.loads(raw_json)
@@ -34,5 +34,4 @@ if __name__ == "__main__":
                 f.close()
 
                 count += 1
-
 
