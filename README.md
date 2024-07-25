@@ -1,5 +1,14 @@
 # MusicData
 
+## Symphonies with APIs/Interfaces
+- BSO: https://archives.bso.org
+- NyPhil: https://github.com/nyphilarchive/PerformanceHistory/
+- Amsterdam Orchestra: https://archief.concertgebouworkest.nl/en/archive/search/
+- Cleveland: https://www.clevelandorchestra.com/discover/archives/ (reached out)
+- LA: https://www.laphil.com/about/la-phil/archives-services (reached out)
+- Phil Orch: Reached out to anna
+- Inspiration: https://www.reddit.com/r/classicalmusic/comments/1apv9qo/100_mostfrequently_performed_symphonies_at/
+- 
 ## Next Steps
 - Read JSON from BSO website and put it into a single JSON file
 - Write each season to a separate file (will use subprocess), then combine later with Python
@@ -29,3 +38,41 @@ To recreate most popular symphonies chart, simply create list of all works in da
 Who are the most popular composers? Works of those composers?
 Most popular solo instrument?
 Trends in performances over time?
+
+```json
+{
+      "orchestra": "New York Philharmonic",
+      "season": "2014-15",
+      "concerts": [
+        {
+          "eventType": "Subscription Season",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2014-11-29T05:00:00Z",
+          "Time": "8:00PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "11196*",
+          "composerName": "Wagenaar,  Johan",
+          "workTitle": "CYRANO DE BERGERAC, OVERTURE, OP. 23",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": []
+        },
+        {
+          "ID": "3500*",
+          "composerName": "Korngold,  Erich",
+          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
+          "conductorName": "van Zweden, Jaap",
+          "soloists": [
+            {
+              "soloistName": "Hahn, Hilary",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "S"
+            }
+          ]
+        }
+      ]
+    }
+```

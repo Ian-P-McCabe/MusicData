@@ -1,5 +1,4 @@
 import traceback
-
 from seleniumwire import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -10,23 +9,27 @@ import json
 import time
 from random import randrange
 import shutil
+import logging
 
 """
 Program steps
 #For each url, open process to gather all JSON from the webpage. 
 """
 def fetch_BSO_JSON(start_year, end_year, run_id):
-
     url = f'https://archives.bso.org/Search.aspx?SearchType=Performance&startTime=10%2F01%2F{start_year}&endTime=09%2F30%2F{end_year}'
 
     # Define webdriver, get url, and wait for delay seconds for the requisite element to appear
     driver = webdriver.Chrome()
     driver.get(url)
-    # TODO: This is not enough time lol, will a minute be enough time?
-    delay = 60
+    # Capping this at a minute and a half, still getting some timeout exceptions at a minute
+    delay = 90
+
+    # pagedict = {'Error': "No error"}
     try:
         WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CLASS_NAME, "resultCount")))
     except Exception as e:
+        #pagedict['Error'] = {"Overview" : "ERROR WITH: " + str(start_year) + " to " + str(end_year)}
+        #pagedict['Error']['Detailed'] = "An error occurred: " + traceback.format_exc()
         print("ERROR WITH: " + str(start_year) + " to " + str(end_year))
         print("An error occurred: ", traceback.format_exc())
 
@@ -42,12 +45,6 @@ def fetch_BSO_JSON(start_year, end_year, run_id):
 
                 bso_info = json.loads(clean_json['d'])
 
-                # print(bso_info)
-                print(count)
-                print(len(bso_info['Results']))
-
-                #TODO: Turn writing to file back on once done with testing
-
                 filename = run_id + "/" + "BSO_" + str(start_year) + "_to_" + str(end_year) + "_" + str(count) + ".json"
 
                 f = open(filename, "w")
@@ -57,31 +54,22 @@ def fetch_BSO_JSON(start_year, end_year, run_id):
                 count += 1
 
     driver.quit()
+    rand_wait = randrange(2,7)
     #print("Done with " + str(start_year) + " to " + str(end_year) + ", waited " + str(rand_wait) + " seconds.")
 
 
-def run_scraper(run_id):
+def run_scraper(run_id, start_year, end_year):
 
-    #TODO: Re enable this later
-    #os.mkdir(run_id)
+    os.makedirs(run_id)
 
-    current_start = 1881
-    count = 0
-    start_year = 1881
-    end_year = 2024
-
+    #1881 to 2024 is how long the BSO has existed
     pool = Pool(processes=4)
-    # Broke at 1971 for some reason, what happens if we start there
-    for i in range(1967, 1968):
+    for i in range(start_year, end_year):
         pool.apply_async(fetch_BSO_JSON, args=(i, i+1, run_id,))
         time.sleep(2)
 
     pool.close()
     pool.join()
-
-    # TODO: Need 1902 to 1903, not sure why it failed, it is in Test03
-    # TODO: Also just missing many years?
-    # TODO: For some reason 1980 just kills this program
 
 
 def fetch_missing():
@@ -137,10 +125,25 @@ def check_performance_totals():
     return sorted_dict
 
 
-
 if __name__ == "__main__":
     print("Running")
-    run_scraper("BSO_Data/Run_02")
+    #run_scraper("BSO_Data/Run_02/Test_06_2001_2024", 2001, 2024)
+
+def combine_json_in_file():
+    result_list = []
+    dirs = ['Test_03_1881_1921',
+            'Test_05_1961_2001',
+            'Test_06_2001_2024',
+            'Test_04_1921_1961']
+    for d in dirs:
+        files = os.listdir("BSO_Data/Run_02/" + d)
+        for file in files:
+            with open("BSO_Data/Run_02/" + d + "/" + file) as f:
+                data = json.load(f)
+                result_list += data['Results']
+
+    with open("FullResults_01.json", "w") as f:
+        json.dump(result_list, f, indent=4)
 
 
 
