@@ -7,11 +7,14 @@ I analyzed the data using pandas in a Jupyter notebook.
 Here are some results
 
 Top 5 Most Played Works:
-1. 506 Performances - Johannes Brahms, Symphony No.   2 in D major, Op. 73
-2. 496 Performances - Ludwig van Beethoven, Symphony No.  7 in A major, Op. 92
-3. 486 Performances - Ludwig van Beethoven, Symphony No.  5 in C minor, Op. 67
-4. 483 Performances - Ludwig van Beethoven, Symphony No.  3 in E-flat major, Op. 55, "Eroica"
-5. 475 Performances - Johannes Brahms, Symphony No.   1 in C minor, Op. 68
+
+| Rank | Performances | Composer and Work                                                       |
+|------|--------------|-------------------------------------------------------------------------|
+| 1    | 506          | Johannes Brahms, Symphony No.   2 in D major, Op. 73                    |
+| 2    | 496          | Ludwig van Beethoven, Symphony No.  7 in A major, Op. 92                |
+| 3    | 486          | Ludwig van Beethoven, Symphony No.  5 in C minor, Op. 67                |
+| 4    | 483          | Ludwig van Beethoven, Symphony No.  3 in E-flat major, Op. 55, "Eroica" |
+| 5    | 475          | Johannes Brahms, Symphony No.   1 in C minor, Op. 68                    |
 
 Top 5 Most Played Violin Concertos:
 
