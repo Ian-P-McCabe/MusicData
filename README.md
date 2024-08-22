@@ -1,4 +1,24 @@
 # MusicData
+I scraped the Boston Symphony Orchestra performance history 
+API to obtain a complete performance history of the orchestra. 
+
+I analyzed the data using pandas in a Jupyter notebook.
+
+Here are some results
+
+Top 5 Most Played Works:
+1. 506 Performances - Johannes Brahms, Symphony No.   2 in D major, Op. 73
+2. 496 Performances - Ludwig van Beethoven, Symphony No.  7 in A major, Op. 92
+3. 486 Performances - Ludwig van Beethoven, Symphony No.  5 in C minor, Op. 67
+4. 483 Performances - Ludwig van Beethoven, Symphony No.  3 in E-flat major, Op. 55, "Eroica"
+5. 475 Performances - Johannes Brahms, Symphony No.   1 in C minor, Op. 68
+
+Top 5 Most Played Violin Concertos:
+1. 235 Performances - Ludwig van Beethoven, Concerto for Violin in D major, Op. 61
+2. 209 Performances - Johannes Brahms, Concerto for Violin in D major, Op. 77
+3. 177 Performances - Pyotr Ilyich Tchaikovsky, Concerto for Violin in D Major, Op. 35
+4. 165 Performances - Felix Mendelssohn, Concerto for Violin in E minor, Op. 64
+5. 117 Performances - Jean Sibelius, Concerto for Violin in D minor, Op. 47
 
 ## Symphonies with APIs/Interfaces
 - BSO: https://archives.bso.org
@@ -6,17 +26,8 @@
 - Amsterdam Orchestra: https://archief.concertgebouworkest.nl/en/archive/search/
 - Cleveland: https://www.clevelandorchestra.com/discover/archives/ (reached out)
 - LA: https://www.laphil.com/about/la-phil/archives-services (reached out)
-- Phil Orch: Reached out to anna
+- Phil Orch: (reached out)
 - Inspiration: https://www.reddit.com/r/classicalmusic/comments/1apv9qo/100_mostfrequently_performed_symphonies_at/
-- 
-## Next Steps
-- Read JSON from BSO website and put it into a single JSON file
-- Write each season to a separate file (will use subprocess), then combine later with Python
-- Work with JSON file (or part of the file using Pandas)
-- Season runs ~October to May
-
-1. Gather Data
-2. Clean data
 
 ## Useful Links
 - Python json library: https://docs.python.org/3/library/json.html
@@ -29,50 +40,3 @@
 ## Libraries Used
 - Selenium Wire: https://pypi.org/project/selenium-wire/#response-objects
 - Selenium: https://pypi.org/project/selenium/
-
-## Thoughts
-
-To recreate most popular symphonies chart, simply create list of all works in dataframe and then get the count for each one
-
-## Questions
-Who are the most popular composers? Works of those composers?
-Most popular solo instrument?
-Trends in performances over time?
-
-```json
-{
-      "orchestra": "New York Philharmonic",
-      "season": "2014-15",
-      "concerts": [
-        {
-          "eventType": "Subscription Season",
-          "Location": "Manhattan, NY",
-          "Venue": "Avery Fisher Hall",
-          "Date": "2014-11-29T05:00:00Z",
-          "Time": "8:00PM"
-        }
-      ],
-      "works": [
-        {
-          "ID": "11196*",
-          "composerName": "Wagenaar,  Johan",
-          "workTitle": "CYRANO DE BERGERAC, OVERTURE, OP. 23",
-          "conductorName": "van Zweden, Jaap",
-          "soloists": []
-        },
-        {
-          "ID": "3500*",
-          "composerName": "Korngold,  Erich",
-          "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.35",
-          "conductorName": "van Zweden, Jaap",
-          "soloists": [
-            {
-              "soloistName": "Hahn, Hilary",
-              "soloistInstrument": "Violin",
-              "soloistRoles": "S"
-            }
-          ]
-        }
-      ]
-    }
-```
